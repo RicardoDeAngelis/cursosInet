@@ -1,0 +1,18 @@
+header{
+	width: 960px;
+	height: 100px;
+	background-color: green;
+
+}
+section{
+	width: 960px;
+	height: 400px;
+	background-color:cornflowerblue;
+}
+
+footer{
+	width: 960px;
+	height: 200px;
+	background-color: greenyellow;
+
+}
